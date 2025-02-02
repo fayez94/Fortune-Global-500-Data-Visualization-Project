@@ -38,8 +38,14 @@ This project was completed in the following steps:
 - `Fortune500_Company.py` - The Python script used for web scraping with Selenium.
 - `visualization.ipynb` - The Python script for Data Processing, Transformation, Manipulation.
 - `World_best_Company_details.csv` - The dataset that was scrapped by using selenium.
-- `Cleaned_World_Best_Companies.csv` - The cleaned dataset after processing.  
+- `Cleaned_World_Best_Companies.csv` - The cleaned dataset after processing.
+- `Fortune Global 500- Key insights on to top companies.twbx` - The Tableau Packaged Workbook containing dashboard of key insight on to top companies.
+- `Financial Performance Analysis: Revenue, Profit, and Profit Margins.twbx` - The Tableau Packaged Workbook containing dashboard of Financial Performance Analysis.
 - `README.md` - Documentation about the project.
+
+## 🚀 How to Use  
+1. Open the Tableau dashboards using the provided **Tableau Public links**.  
+2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
 
 ## 📢 Contact
 For any questions, feel free to reach out! 🚀  
