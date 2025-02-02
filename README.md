@@ -35,14 +35,11 @@ This project was completed in the following steps:
 - The dataset used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally.
 
 ## 📂 Files in This Repository  
-- `scraping_script.py` - The Python script used for web scraping with Selenium.  
-- `cleaned_data.csv` - The cleaned dataset after processing.  
-- `Fortune_500_Analysis.twbx` - The Tableau Packaged Workbook containing both dashboards.  
+- `Fortune500_Company.py` - The Python script used for web scraping with Selenium.
+- `visualization.ipynb` - The Python script for Data Processing, Transformation, Manipulation.
+- `World_best_Company_details.csv` - The dataset that was scrapped by using selenium.
+- `Cleaned_World_Best_Companies.csv` - The cleaned dataset after processing.  
 - `README.md` - Documentation about the project.
-
-## 🚀 How to Use
-1. Open the Tableau dashboards using the provided **Tableau Public links**.
-2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
 
 ## 📢 Contact
 For any questions, feel free to reach out! 🚀  
