@@ -13,4 +13,16 @@ This project visualizes insights from the **Fortune Global 500 dataset**, highli
    - Revenue vs. profit analysis.
    - Profit margin distribution among top companies.
    - Comparative analysis across industries.
+     
+## 🚀 How to Use
+1. Open the Tableau dashboards using the provided **Tableau Public links**.
+2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
+
+
+## 📊 Dataset
+- The dataset used in this project is the **Fortune Global 500 dataset**, which includes revenue, profit, and other key financial metrics of the top companies globally.
+
+## 📢 Contact
+For any questions, feel free to reach out! 🚀  
+
 
