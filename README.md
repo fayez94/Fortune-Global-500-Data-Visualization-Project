@@ -20,7 +20,7 @@ This project visualizes insights from the **Fortune Global 500 dataset**, highli
 
 
 ## 📊 Dataset
-- The dataset used in this project is the **Fortune Global 500 dataset**, which includes revenue, profit, and other key financial metrics of the top companies globally.
+- The dataset used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally.
 
 ## 📢 Contact
 For any questions, feel free to reach out! 🚀  
