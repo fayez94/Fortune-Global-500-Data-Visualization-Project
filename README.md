@@ -3,6 +3,22 @@
 ## 📝 Project Overview  
 This project visualizes insights from the **Fortune Global 500 dataset**, highlighting key trends and financial performance of the world's top companies.
 
+## 🔄 Project Workflow  
+This project was completed in the following steps:  
+
+1. **Data Scraping** 🕵️‍♂️  
+   - Scraped the **Fortune Global 500 dataset** using **Selenium** to extract company details, revenue, profit, and other financial metrics.  
+
+2. **Data Cleaning & Preprocessing** 🛠️  
+   - Processed the scraped dataset using **Python** and libraries such as **Pandas** and **NumPy** to clean, structure, and prepare the data for visualization.  
+
+3. **Data Visualization** 📊  
+   - Used **Tableau** to create interactive dashboards with key insights from the cleaned dataset.  
+
+4. **Publishing & Sharing** 🚀  
+   - Uploaded dashboards to **Tableau Public** and pushed all files to **GitHub** for accessibility.  
+
+
 ### 🔍 Dashboards Created:
 1. **[Fortune Global 500: Key Insights on Top Companies](https://public.tableau.com/shared/3QKCJ3JX4?:display_count=n&:origin=viz_share_link)**
    - Overview of the largest companies.
@@ -14,13 +30,19 @@ This project visualizes insights from the **Fortune Global 500 dataset**, highli
    - Profit margin distribution among top companies.
    - Comparative analysis across industries.
      
-## 🚀 How to Use
-1. Open the Tableau dashboards using the provided **Tableau Public links**.
-2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
-
 
 ## 📊 Dataset
 - The dataset used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally.
+
+## 📂 Files in This Repository  
+- `scraping_script.py` - The Python script used for web scraping with Selenium.  
+- `cleaned_data.csv` - The cleaned dataset after processing.  
+- `Fortune_500_Analysis.twbx` - The Tableau Packaged Workbook containing both dashboards.  
+- `README.md` - Documentation about the project.
+
+## 🚀 How to Use
+1. Open the Tableau dashboards using the provided **Tableau Public links**.
+2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
 
 ## 📢 Contact
 For any questions, feel free to reach out! 🚀  
