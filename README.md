@@ -32,7 +32,7 @@ This project was completed in the following steps:
      
 
 ## 📊 Dataset
-- The dataset used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally.
+- The dataset that is used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally.
 
 ## 📂 Files in This Repository  
 - `Fortune500_Company.py` - The Python script used for web scraping with Selenium.
