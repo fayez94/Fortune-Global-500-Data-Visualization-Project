@@ -48,6 +48,6 @@ This project was completed in the following steps:
 2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
 
 ## 📢 Contact
-For any questions, feel free to reach out! 🚀  
+For any questions, please feel free to reach out! 🚀  
 
 
