@@ -45,9 +45,10 @@ This project was completed in the following steps:
 
 ## 🚀 How to Use  
 1. Open the Tableau dashboards using the provided **Tableau Public links**.  
-2. Download the `.twbx` file and open it with **Tableau Desktop** for further exploration.
+2. Download the `.twbx` files and open it with **Tableau Desktop** for further exploration.
 
 ## 📢 Contact
-For any further questions, please feel free to reach out! 🚀  
+
+For any questions about this project, please feel free to reach out! 🚀  
 
 
