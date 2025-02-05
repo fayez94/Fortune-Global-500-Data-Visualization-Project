@@ -49,6 +49,6 @@ This project was completed in the following steps:
 
 ## 📢 Contact
 
-For any questions about this project, please feel free to reach out! 🚀  
+For any further questions about this project, please feel free to reach out! 🚀  
 
 
