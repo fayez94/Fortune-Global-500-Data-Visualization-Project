@@ -25,9 +25,6 @@ This project visualizes insights from the **Fortune Global 500 dataset**, highli
   - **Korea Gas, Metro, Walmart, Talanx, Samsung C&T**  
   - Some of these operate on **low-margin, high-volume models**, while others have high operational costs.
 
-- **Key Observation:**  
-  - Several companies have **negative profit margins**, indicating **losses despite significant revenue**.
-
 ### 🔹 **2. Revenue vs. Profit Analysis**
 - Companies with **high revenue do not always translate to high profit**.
 - **Tech Giants** like **Apple, Microsoft, and Nvidia** maintain high profitability despite varied revenue levels.
