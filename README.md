@@ -3,6 +3,19 @@
 ## 📝 Project Overview  
 This project visualizes insights from the **Fortune Global 500 dataset**, highlighting key trends and financial performance of the world's top companies.
 
+# Fortune Global 500 Project 🚀  
+
+## 📊 Interactive Dashboards  
+
+### 🔹 Fortune Global 500: Key Insights on Top Companies  
+[![Dashboard Preview](images/dashboard-1.png)](https://public.tableau.com/shared/HPK2HY9XF?:display_count=n&:origin=viz_share_link)  
+
+### 🔹 Financial Performance Analysis: Revenue, Profit, Profit Margins  
+[![Dashboard Preview](images/dashboard-2.png)](https://public.tableau.com/app/profile/mohammad.fayez.ullah/viz/FinancialPerformanceAnalysisRevenueProfitandProfitMargins/FinancialPerformanceAnalysisRevenueProfitandProfitMargins)  
+
+🔗 **[Explore Full Dashboards on Tableau Public](https://public.tableau.com/app/profile/mohammad.fayez.ullah/viz/FortuneGlobal500KeyInsightsintoTopCompanies/FortuneGlobal500KeyInsightsintoTopCompanies)**  
+
+
 ## 🔄 Project Workflow  
 This project was completed in the following steps:  
 
