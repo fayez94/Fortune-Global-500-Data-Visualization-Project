@@ -109,6 +109,26 @@ python Scraper.py
 deactivate
 ```
 
+## Contributions
+
+Contributions are always welcome! If you'd like to contribute to the Fortune Global 500 project, here’s how you can help:
+
+### How to Contribute:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature-name`)
+3. Make your changes
+4. Commit your changes (`git commit -m 'Add new feature'`)
+5. Push to the branch (`git push origin feature-name`)
+6. Open a Pull Request
+
+### Ways You Can Contribute:
+- Add new data visualizations
+- Suggest or implement improvements to existing dashboards
+- Update documentation
+- Report bugs or suggest features
+
+Thank you for considering contributing! 🙏
+
 ## 📬 Contact
 For any questions or suggestions, feel free to reach out!
 
