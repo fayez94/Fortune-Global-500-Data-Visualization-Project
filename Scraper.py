@@ -53,7 +53,3 @@ print(len(all_info))
 
 df = pd.DataFrame(data = all_info, columns = columns)
 df.to_csv("best_Commpany_details_USA.csv", index=False)
-
-
-# if __name__ == '__main__':
-#     main()
