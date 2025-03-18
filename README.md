@@ -1,7 +1,7 @@
 # 📊 Fortune Global: A Tableau Journey
 
 ## 📝 Project Overview  
-This project visualizes insights from the **Fortune Global 500 dataset**, highlighting key trends and financial performance of the world's top companies. 
+This project visualizes insights from the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, highlighting key trends and financial performance of the world's top companies. 
 
 ## 📊 Interactive Dashboards  
 
