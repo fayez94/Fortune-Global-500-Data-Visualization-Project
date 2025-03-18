@@ -45,10 +45,20 @@ This project was completed in the following steps:
 
 4. **Publishing & Sharing** 🚀  
    - Uploaded dashboards to **Tableau Public** and pushed all files to **GitHub** for accessibility.  
-      
+
 
 ## 📊 Dataset
-- The dataset that is used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally.
+- The dataset that is used in this project is the *[Fortune Global 500 dataset](https://fortune.com/ranking/global500/)*, which includes revenue, profit, and other key financial metrics of the top companies globally. It consists of the following columns:
+
+```
+Index(['Rank', 'Name', 'Revenue', 'Revenue in percentage', 'Profit',
+       'Profit in percentage', 'Assets', 'Employees', 'Change in rank',
+       'Years on global 500 list'],
+      dtype='object')
+```
+
+- **Total Records:** 500
+- **Main Features:** Revenue, Profit, Employee count, Rank changes, etc.
 
 ## 📂 Files in This Repository  
 - `Fortune500_Company.py` - The Python script used for web scraping with Selenium.
@@ -59,12 +69,51 @@ This project was completed in the following steps:
 - `Financial Performance Analysis: Revenue, Profit, and Profit Margins.twbx` - The Tableau Packaged Workbook containing dashboard of Financial Performance Analysis.
 - `README.md` - Documentation about the project.
 
-## 🚀 How to Use  
-1. Open the Tableau dashboards using the provided **Tableau Public links**.  
-2. Download the `.twbx` files and open it with **Tableau Desktop** for further exploration.
+## 🚀 Project Usage Guide
 
-## 📢 Contact
+Follow these steps to set up and run the project on your local machine.
 
-For any further questions about this project, please feel free to reach out! 🚀  
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/fayez94/Fortune-Global-500-Data-Visualization-Project.git
+cd Fortune-Global-500-Data-Visualization-Project
+```
+
+### 2️⃣ Create and Activate a Virtual Environment
+
+#### 🔹 For Windows:
+```bash
+python -m venv myvenv
+myvenv\Scripts\activate
+```
+
+#### 🔹 For macOS/Linux:
+```bash
+python3 -m venv myvenv
+source myvenv/bin/activate
+```
+
+### 3️⃣ Install Required Dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4️⃣ Run the Scraper Scripts
+
+```bash
+python Scraper.py
+```
+
+### 5️⃣ Deactivating the Virtual Environment
+```bash
+deactivate
+```
+
+## 📬 Contact
+For any questions or suggestions, feel free to reach out!
+
+📧 Email: mdfayezullah2624@gmail.com  
+🐙 GitHub: [fayez94](https://github.com/fayez94)
+ 
 
 
